@@ -5,7 +5,7 @@
 
 // object = {key : value};
 const boy = {"maths": 20};
-console.log(boy)
+// console.log(boy)
 
 // json data []
 const jss1 = [
@@ -15,7 +15,7 @@ const jss1 = [
     {"Kola": "Male"},
     {"Ola": "Female"}
 ];
-console.log(jss1);
+// console.log(jss1);
 
 // array let array []
 
@@ -23,4 +23,31 @@ console.log(jss1);
 
 const person = "Godwin";
 
-console.log(person);
+// console.log(person);
+
+const student = [
+    
+{
+    "name" : "Bayo Alabi",
+    "age" : 14,
+    "class" : "sss2",
+    "gender" : "male",
+},
+
+{
+    "name" : "Funke Alabi",
+    "age" : 14,
+    "class" : "sss2",
+    "gender" : "female",
+},
+
+{
+    "name" : "Uche Nwanchukwu",
+    "age" : 15,
+    "class" : "sss2",
+    "gender" : "male",
+},
+];
+
+console.log(student);
+console.log()
