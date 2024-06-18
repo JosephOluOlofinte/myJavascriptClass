@@ -17,4 +17,10 @@ const jss1 = [
 ];
 console.log(jss1);
 
-// array 
+// array let array []
+
+// console.log(facebookUser)
+
+const person = "Godwin";
+
+console.log(person);
